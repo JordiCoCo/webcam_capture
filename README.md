@@ -22,6 +22,7 @@ Per fer el següent pas hem de tornar a utilitzar el nostre terminal, i seguim e
 > cd webcam_capture
 * I executem amb el Cmake per tal de crear l'executable:
 > cmake .
+
 > make
 * Un cop tenim l'executable, podem fer doble clic dins de la carpeta a on es troba, o executant la següent comanda a la terminal:
 > ./webcam_capture
